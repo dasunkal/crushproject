@@ -3,7 +3,7 @@ import { Coffee, Heart, Music } from 'lucide-react';
 export const initialSteps = [
   {
     id: 1,
-    title: "Hey👋",
+    title: "Hey Akashi👋",
     content: "I've been wanting to tell you something special...",
     icon: Heart
   },
